@@ -14,9 +14,9 @@ This project simulates a banking environment to identify fraudulent transaction 
 * **MySQL:** Data storage and forensic analysis.
 * **SQL Logic:** Used `CASE WHEN`, `Window Functions`, and `Views` to build an automated risk classifier.
 
-## Evidence Board
+## 📊 Evidence Board
 
-![Evidence Board](./Evidence report.png)
+![Evidence Board](./Evidence_report.png)
 
 ## 🧠 Fraud Detection Logic (Flowchart)
 *How the system decides if a transaction is safe or suspicious:*
